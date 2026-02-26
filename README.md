@@ -78,8 +78,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Roopa-KR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=16&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 ###
