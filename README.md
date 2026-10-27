@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Roopa K R<br><br>- 🔭 I’m working as Business Analyst at Almasons company<br>- 📚 I'm currently learning Data science<br>- ⚡I utilize my free time to expand my knowledge and explore innovative ideas.</p>
+<p align="left">I'm Roopa K R<br><br>- 🔭 I’m working as Business Analyst at Almasons company<br>- 📚 I'm currently learning AIML concepts<br>- ⚡I utilize my free time to expand my knowledge and explore innovative ideas.</p>
 
 ###
 
